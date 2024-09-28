@@ -1,7 +1,6 @@
 import 'package:doc_app_new/core/theming/style.dart';
 import 'package:flutter/material.dart';
 
-
 class RichTextComponant extends StatelessWidget {
   const RichTextComponant({
     super.key,
